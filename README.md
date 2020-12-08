@@ -8,4 +8,4 @@ FullMatrix -i *chrsize* -r *resolution* -o *output*
 ## Installation
 python>=3.6
 
-pip install FullMatrix
+pip install FullMatrix# FullMatrix
